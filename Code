@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="It is our anniversary and I am just learning html and wanted to make my love a website to show my appreciation.">
+        <meta name="keywords" content="Anniversary, Happy,jessie,maya">
+        <title>I Love You Jessie</title>
+    </head>
+    <body>
+        <header>
+            <img src="images/Love heart.png" width="640" height="320"><h1>This is to tell you how much I love you!</h1><img src="images/Love heart.png" width="640" height="320">
+        </header>
+        <main>
+            <h2>I know that I'm not the best at coding yet, but i'm going to do my best</h2>
+        </main>
+    </body>
+</html>
