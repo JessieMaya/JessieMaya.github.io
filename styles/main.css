@@ -21,11 +21,12 @@ header h1{
     text-align: center;
 }
 header img{
-    float: inline-start;
+    vertical-align: middle;
     mix-blend-mode: multiply;
 }
 body img{
-    float:inline-end;
+    vertical-align: middle;
+    mix-blend-mode: multiply;
 }
 main h2{
     color: rgb(203, 99, 99);
