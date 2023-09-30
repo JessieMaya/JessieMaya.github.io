@@ -22,6 +22,7 @@ header h1{
 }
 header img{
     float: inline-start;
+    mix-blend-mode: multiply;
 }
 body img{
     float:inline-end;
